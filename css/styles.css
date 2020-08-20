@@ -1,0 +1,9 @@
+section{
+    background: linear-gradient(to right, #ce941e,#D0391E);
+    height: 100vh;
+}
+
+form,table{
+    width: 50vw;
+    margin: 0 auto;
+}
